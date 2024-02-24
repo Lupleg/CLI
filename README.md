@@ -5,16 +5,16 @@
   gh <command> <subcommand> [flags]
 
 ## CORE COMMANDS
-  auth:        Authenticate gh and git with GitHub
-  browse:      Open the repository in the browser
-  codespace:   Connect to and manage codespaces
-  gist:        Manage gists
-  issue:       Manage issues
-  org:         Manage organizations
-  pr:          Manage pull requests
-  project:     Work with GitHub Projects.
-  release:     Manage releases
-  repo:        Manage repositories
+  _auth:_        Authenticate gh and git with GitHub
+  _browse:_     Open the repository in the browser
+  _codespace:_   Connect to and manage codespaces
+  _gist:_        Manage gists
+  _issue:_       Manage issues
+  _org_      Manage organizations
+  _pr:_          Manage pull requests
+  _project:_     Work with GitHub Projects.
+  _release:_     Manage releases
+  _repo:_        Manage repositories
 
 ## GITHUB ACTIONS COMMANDS
   cache:       Manage Github Actions caches
