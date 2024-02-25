@@ -48,8 +48,8 @@
   reference:   A comprehensive reference of all gh commands
 
 ## FLAGS
-  --help      Show help for command
-  --version   Show gh version
+  `--help`      Show help for command
+  `--version`   Show gh version
 
 ## EXAMPLES
   $ gh issue create
