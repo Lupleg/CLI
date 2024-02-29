@@ -1,7 +1,5 @@
-# CLI
+# CLI Command Line Interface
 - Work seamlessly with GitHub from the command line.
-  ### Get started
-  - `brew install gh`
 
 ## USAGE
   gh <command> <subcommand> [flags]
